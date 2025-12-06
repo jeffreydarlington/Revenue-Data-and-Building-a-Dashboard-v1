@@ -1,10 +1,3 @@
-Here is a **clean, professional, GitHub-ready README.md** for your project.
-It explains the purpose, tools, instructions, visuals, and structure **without including the full notebook**, making it perfect for recruiters or portfolio viewers.
-
-You can copy-paste it directly into a file named **README.md**.
-
----
-
 # 📈 Extracting and Visualizing Stock Data
 
 This project focuses on extracting historical stock prices and revenue data for **Tesla (TSLA)** and **GameStop (GME)** using **yfinance**, **web scraping**, **pandas**, and **Matplotlib**.
