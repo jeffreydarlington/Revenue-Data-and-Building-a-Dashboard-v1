@@ -1,10 +1,3 @@
-Here is a **clean, professional, GitHub-ready README.md** for your project.
-It explains the purpose, tools, instructions, visuals, and structure **without including the full notebook**, making it perfect for recruiters or portfolio viewers.
-
-You can copy-paste it directly into a file named **README.md**.
-
----
-
 # 📈 Extracting and Visualizing Stock Data
 
 This project focuses on extracting historical stock prices and revenue data for **Tesla (TSLA)** and **GameStop (GME)** using **yfinance**, **web scraping**, **pandas**, and **Matplotlib**.
@@ -175,5 +168,10 @@ Generates GameStop’s **stock price** and **revenue** trends up to June 2021.
 ## 📜 License
 
 © 2020 IBM Corporation — All Rights Reserved.
+<<<<<<< HEAD
   This project is from IBM
 ---
+=======
+
+---
+>>>>>>> ad8f83cfd63e83ad0886cd79dc0e973f6e4c65aa
