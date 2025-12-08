@@ -175,5 +175,5 @@ Generates GameStop’s **stock price** and **revenue** trends up to June 2021.
 ## 📜 License
 
 © 2020 IBM Corporation — All Rights Reserved.
-
+  This project is from IBM
 ---
